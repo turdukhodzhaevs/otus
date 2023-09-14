@@ -1,4 +1,4 @@
-﻿namespace Services;
+﻿namespace QuadraticEquation;
 
 public static class QuadraticEquationService
 {
