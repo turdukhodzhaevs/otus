@@ -1,5 +1,3 @@
-using Services;
-
 namespace QuadraticEquation;
 
 public class QuadraticEquationTest
